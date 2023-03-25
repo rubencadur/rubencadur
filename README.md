@@ -157,11 +157,8 @@ I am a Software Developer (yes, also "full stack") <img src="https://media.giphy
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubencadur&layout=compact&theme=default )](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rubencadur&show_icons=true&locale=en&layout=compact" alt="rubencadur" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubencadur&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rubencadur&show_icons=true&locale=en" alt="rubencadur" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rubencadur&" alt="rubencadur" /></p>
 
 ---
 
