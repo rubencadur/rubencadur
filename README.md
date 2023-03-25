@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/rubencadur/rubencadur/blob/03df660e757168dac3645ee954e1b42e635c9bc3/images/mantra.jpg" width="700" height="300"/>
+  <img src="https://github.com/rubencadur/rubencadur/blob/03df660e757168dac3645ee954e1b42e635c9bc3/images/mantra.jpg" width="500"/>
 </div>
 
 ---
@@ -30,7 +30,7 @@ I am a Full Stack Developer and Software Developer <img src="https://media.giphy
 
 - :computer: I’m working as a Senior Software Engineer and also as an Education Lead on Holberton School Peru.
 
-- :seedling: I'm trying to find a better way to teach programming to everyone.
+- :seedling: I'm trying to find different ways to teach programming to everyone.
 
 - :jigsaw: My free time is for my family, my friends and basketball. Read tech articles and learning something new every day is part of my work.
 
@@ -52,7 +52,12 @@ I am a Full Stack Developer and Software Developer <img src="https://media.giphy
   <tr>
     <td>BackEnd:</td>
     <td>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;  <!--   c/c-original.svg  csharp/csharp-original.svg  django/django-plain-wordmark.svg  -->
+      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
     </td>
   </tr>
   <tr>
@@ -66,10 +71,8 @@ I am a Full Stack Developer and Software Developer <img src="https://media.giphy
     <td>Cloud:</td>
     <td>
       <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-      <!--
-      azure/azure-original-wordmark.svg
-      digitalocean/digitalocean-original-wordmark.svg
-      -->
+      <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original-wordmark.svg" title="DigitalOcean" alt="DigitalOcean" width="40" height="40"/>&nbsp;
     </td>
   </tr>
   <tr>
