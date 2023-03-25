@@ -13,8 +13,7 @@
     </a>
   </div>
   <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Ruben!
   </h1>
 </div>
 
@@ -26,7 +25,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer and Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Peru :peru:.
+I am a Software Developer (yes, also "full stack") <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Peru :peru:.
 
 - :computer: I’m working as a Senior Software Engineer and also as an Education Lead on Holberton School Peru.
 
@@ -153,6 +152,19 @@ I am a Full Stack Developer and Software Developer <img src="https://media.giphy
 ---
 
 ### :fire: My Stats :
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rubencadur)](https://git.io/streak-stats)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubencadur&layout=compact&theme=default )](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rubencadur)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubencadur&layout=compact&theme=default )](https://github.com/anuraghazra/github-readme-stats)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rubencadur&show_icons=true&locale=en&layout=compact" alt="rubencadur" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rubencadur&show_icons=true&locale=en" alt="rubencadur" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rubencadur&" alt="rubencadur" /></p>
+
+---
+
+### :heart: Support :
+
+<p><a href="https://www.buymeacoffee.com/rubencadur"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rubencadur" /></a><a href="https://ko-fi.com/rubencadur"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="rubencadur" /></a></p><br><br>
