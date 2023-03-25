@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/rubencadur/rubencadur/blob/0ccbcd55f2fa4a70a3ad7f8ddc93a07996d56f8f/rubencadenas_logo.png" width="622"/>
+  <img src="https://github.com/rubencadur/rubencadur/blob/03df660e757168dac3645ee954e1b42e635c9bc3/images/rubencadenas_logo.png" width="622"/>
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/rubencadenas">
@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xT0Gqn9yuw8hnPGn5K/giphy.gif" width="700" height="300"/>
+  <img src="https://github.com/rubencadur/rubencadur/blob/03df660e757168dac3645ee954e1b42e635c9bc3/images/mantra.jpg" width="700" height="300"/>
 </div>
 
 ---
