@@ -12,12 +12,12 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
-  
   <h1>
     hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
+
 <div align="center">
   <img src="https://media.giphy.com/media/xT0Gqn9yuw8hnPGn5K/giphy.gif" width="480" height="480"/>
 </div>
@@ -32,7 +32,7 @@ I am a Full Stack Developer and Software Developer <img src="https://media.giphy
 
 - :seedling: I'm trying to find a better way to teach programming to everyone.
 
-- :jigsaw: My free time is for my kids, my friends and basketball. Read tech articles and learning something new is part of my work.
+- :jigsaw: My free time is for my family, my friends and basketball. Read tech articles and learning something new every day is part of my work.
 
 - :mailbox: How to reach me >> [![Linkedin Badge](https://img.shields.io/badge/-rubencadur-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rubencadenas)
 
