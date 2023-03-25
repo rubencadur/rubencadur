@@ -153,8 +153,9 @@ I am a Full Stack Developer and Software Developer <img src="https://media.giphy
 ---
 
 ### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rubencadur)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubencadur&layout=compact&theme=default )](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="center">
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rubencadur)](https://git.io/streak-stats)
+</div>
+<div align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubencadur&layout=compact&theme=default )](https://github.com/anuraghazra/github-readme-stats)
+</div>
