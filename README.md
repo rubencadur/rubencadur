@@ -18,26 +18,22 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
-
----
-
 <div align="center">
   <img src="https://media.giphy.com/media/xT0Gqn9yuw8hnPGn5K/giphy.gif" width="480" height="480"/>
 </div>
-
 ---
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer and Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Peru.
+I am a Full Stack Developer and Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Peru :peru:.
 
-- :telescope: I’m working as a Senior Software Engineer and also as an Education Lead on Holberton School Peru.
+- :computer: I’m working as a Senior Software Engineer and also as an Education Lead on Holberton School Peru.
 
 - :seedling: I'm trying to find a better way to teach programming to everyone.
 
-- :zap: My free time is for my kids, my friends and basketball. Read tech articles and learning something new is part of my work.
+- :jigsaw: My free time is for my kids, my friends and basketball. Read tech articles and learning something new is part of my work.
 
-- :mailbox: How to reach me >> [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rubencadenas)
+- :mailbox: How to reach me >> [![Linkedin Badge](https://img.shields.io/badge/-rubencadur-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rubencadenas)
 
 ---
 
