@@ -159,9 +159,10 @@ I am a Software Developer (yes, also "full stack") <img src="https://media.giphy
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubencadur&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<!--
 ---
 
 ### :heart: Support :
 
 <p><a href="https://www.buymeacoffee.com/rubencadur"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rubencadur" /></a><a href="https://ko-fi.com/rubencadur"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="rubencadur" /></a></p><br><br>
+-->
