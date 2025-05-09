@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/rubencadur/rubencadur/blob/03df660e757168dac3645ee954e1b42e635c9bc3/images/rubencadenas_logo.png" width="622"/>
+  <img src="https://github.com/rubencadur/rubencadur/blob/03df660e757168dac3645ee954e1b42e635c9bc3/images/rubencadenas_logo.png" width="622" style="background-color: white;"/>
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/rubencadenas">
